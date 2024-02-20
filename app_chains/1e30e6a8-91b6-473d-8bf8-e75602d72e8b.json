@@ -1,0 +1,8 @@
+{
+  "name": "MASTER",
+  "logo": "https://i.ibb.co/JHNKC9P/Cipher-logo1.jpg",
+  "rpc_url": "http://37.60.236.235:9944",
+  "explorer_url": "http://37.60.236.235:4000",
+  "metrics_endpoint": "http://37.60.236.235:9615/metrics",
+  "id": "1e30e6a8-91b6-473d-8bf8-e75602d72e8b"
+}
